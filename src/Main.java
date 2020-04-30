@@ -11,7 +11,7 @@ public class Main {
                 new BufferedReader(new InputStreamReader(System.in));
         int bufint;
         //Задание 1
-       /*System.out.println("Zadanie 1");
+       System.out.println("Zadanie 1");
 
         String bufstr;
         List<String> List1 = new ArrayList<>(10);
@@ -225,7 +225,7 @@ public class Main {
         for (String j:Tree
         ) {
             System.out.println(j);
-        }*/
+        }
 
         /////////////////////////Zadanie 5////////////////////////
         HashSet<Student> Students1 = new HashSet<Student>();
